@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+guid: e27ffc3f0a2104943a332315e7225020
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746ff28caeda6a048afe5db7cd53ae5b
+      internalID: -1118610355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 161
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2463d229c3f587741a7a1466ce302135
+      internalID: -106722257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 160
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74ac2970f54414a9af85e962f8fcf9
+      internalID: 1914659427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 161
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c4f0d1350b35040825a50583169b2c
+      internalID: -2143086329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c8bcf5809fe04f8800a207fa81711
+      internalID: -1576876669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 144
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5f852ccfeef574a8646c79af7e6f3c
+      internalID: -267910093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefccfe95d9da9d4794b30aafc1fce72
+      internalID: 963980031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 10
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385e2c0052fb1e49aa5a5bc0e4a171c
+      internalID: -2060721965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 112
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e023576b92bca4ea46de4941949080
+      internalID: -1180468104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 115
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18aadf64fa51ec47934cbcfae894e22
+      internalID: 1331525385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd77ef2d794f7419fa00cd2a4e91b8
+      internalID: -848471400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 96
+        width: 13
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f66ae5b408cf44b912a65780fdb0b2
+      internalID: -633325026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea7d565906470c4dbd7f4ff59ebd8b0
+      internalID: 1862072131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c50c8badd74c4409e0586f53e3294e
+      internalID: -954979941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 64
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a1153bfdb97e4ea7e06af4e530333
+      internalID: -1251746575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 65
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419db8cfb80c2ab4b91547042460ceaa
+      internalID: -887837126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab074653be50ff445b6c617a3f4a0459
+      internalID: 1301063875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7796499134577e448236c908e84127c
+      internalID: 1274500660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd83e7fcbaff8d468171b36830b2e22
+      internalID: 1932420736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_42
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 32
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f0309960f9bf4c87bbd3474cfcaf2
+      internalID: 1931604914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 16
+        width: 10
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3cc8b2b09970643a5f7d03837369b0
+      internalID: 732661911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 19
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9587736bfbae24a4c902678fbd6a9ebd
+      internalID: -1104437299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a0b63eb1b6f90448ac7a6c50fc80f6
+      internalID: 1223874019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3265e71eb914b49afca67533930a0a
+      internalID: 358358868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 37
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88faa0d938b89cf4694520c883593859
+      internalID: -1406706787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Retro-Lines-Player-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 133
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6d78c7ab583aa429d4c9c91bf0fd23
+      internalID: -2014208964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Retro-Lines-Player-transparent_0: -1406706787
+      Retro-Lines-Player-transparent_1: -2014208964
+      Retro-Lines-Player-transparent_10: -1576876669
+      Retro-Lines-Player-transparent_11: -267910093
+      Retro-Lines-Player-transparent_12: -272612088
+      Retro-Lines-Player-transparent_13: -1320426704
+      Retro-Lines-Player-transparent_14: 963980031
+      Retro-Lines-Player-transparent_15: -2060721965
+      Retro-Lines-Player-transparent_16: -1562559817
+      Retro-Lines-Player-transparent_17: 1097316195
+      Retro-Lines-Player-transparent_18: 1893317628
+      Retro-Lines-Player-transparent_19: -1180468104
+      Retro-Lines-Player-transparent_2: -1802838589
+      Retro-Lines-Player-transparent_20: 1331525385
+      Retro-Lines-Player-transparent_21: -825711233
+      Retro-Lines-Player-transparent_22: 429665242
+      Retro-Lines-Player-transparent_23: 19950594
+      Retro-Lines-Player-transparent_24: -848471400
+      Retro-Lines-Player-transparent_25: -633325026
+      Retro-Lines-Player-transparent_26: -1263433747
+      Retro-Lines-Player-transparent_27: -1258702175
+      Retro-Lines-Player-transparent_28: 110672630
+      Retro-Lines-Player-transparent_29: 77187959
+      Retro-Lines-Player-transparent_3: -1118610355
+      Retro-Lines-Player-transparent_30: 1862072131
+      Retro-Lines-Player-transparent_31: -954979941
+      Retro-Lines-Player-transparent_32: -1251746575
+      Retro-Lines-Player-transparent_33: -887837126
+      Retro-Lines-Player-transparent_34: 1343519130
+      Retro-Lines-Player-transparent_35: -125543313
+      Retro-Lines-Player-transparent_36: 446058856
+      Retro-Lines-Player-transparent_37: 1301063875
+      Retro-Lines-Player-transparent_38: 1274500660
+      Retro-Lines-Player-transparent_39: 199198069
+      Retro-Lines-Player-transparent_4: -106722257
+      Retro-Lines-Player-transparent_40: 1409766562
+      Retro-Lines-Player-transparent_41: 1932420736
+      Retro-Lines-Player-transparent_42: 1931604914
+      Retro-Lines-Player-transparent_43: 1865293764
+      Retro-Lines-Player-transparent_44: -414398057
+      Retro-Lines-Player-transparent_45: 749655153
+      Retro-Lines-Player-transparent_46: 732661911
+      Retro-Lines-Player-transparent_47: -1104437299
+      Retro-Lines-Player-transparent_48: -2116603589
+      Retro-Lines-Player-transparent_49: -2113429809
+      Retro-Lines-Player-transparent_5: 1914659427
+      Retro-Lines-Player-transparent_50: 679944638
+      Retro-Lines-Player-transparent_51: 1223874019
+      Retro-Lines-Player-transparent_52: 358358868
+      Retro-Lines-Player-transparent_53: -1412656746
+      Retro-Lines-Player-transparent_54: 1256998363
+      Retro-Lines-Player-transparent_6: -2143086329
+      Retro-Lines-Player-transparent_7: 1222805885
+      Retro-Lines-Player-transparent_8: -1504226489
+      Retro-Lines-Player-transparent_9: -1891167491
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
